@@ -1,0 +1,14 @@
+# Power Grid Data
+
+https://figshare.com/articles/Germany_grid_data_7z/4233782/2
+
+Citation:
+Mureddu, Mario. “Representation of the German Transmission Grid for Renewable Energy Sources Impact Analysis”. figshare, November 15, 2016. https://doi.org/10.6084/m9.figshare.4233782.v2.
+
+# Internet
+DFN (Deutsches Forschungsnetz / German Research Network)
+http://www.topology-zoo.org/dataset.html
+https://www.dfn.de/fileadmin/1Dienstleistungen/XWIN/X-WiN-Broschuere_deutsch.pdf
+
+
+Each internet node is connoted to nearest power station. Distance is computed with the Euclidean distance ((x_1 - x_2)^2 + (y_1 - y_2)^2)^(1/2) from latitude(y) and longitude(x) of each node.
