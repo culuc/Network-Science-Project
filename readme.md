@@ -10,7 +10,7 @@ Networks today become increasingly interdependent, which makes them more suscept
 |||
 |-|-|
 |Real-World Interdependent Network: German Power Grid and Internet Network | Network after Cascade of Failure on the Power Grid|
-|![](Real-World Graph/GermanRealGraph.png)   |  ![](Real-World Graph/after_attack_p05.png) |
+|![](Real-World\ Graph/GermanRealGraph.png)   |  ![](Real-World\ Graph/after_attack_p05.png) |
 
 ![Result of Simulation in Random Networks](Code/Results/Plots/random1HDkl.png)
 
