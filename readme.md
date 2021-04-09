@@ -4,7 +4,7 @@ Networks today become increasingly interdependent, which makes them more suscept
 ### Example of Failure Process in Interconnected Networks
 |||
 |-|-|
-|Original Interdependent Network   | Network after Cascade of Failure in Interconnected Network|
+|Original Interdependent Network   | After Cascade of Failure in Interconnected Network|
 |![](Presentation/example_before.png)   |  ![](Presentation/example_after.png) |
 
 ### Real-World Example of Failure Process
